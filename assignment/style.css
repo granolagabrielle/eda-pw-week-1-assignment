@@ -1,10 +1,14 @@
 /* Add a background color to the header element */
 header {
     background-color: seagreen;
+    margin-top: -21.44px;
+    margin-bottom: -21.44px;
+    padding: 10px;
 }
 /* Add a fun background color to the main element */
 main {
     background-color: white;
+    padding: 20px;
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
@@ -29,4 +33,6 @@ li {
 footer {
     background-color: seagreen;
     font-style: italic;
+    margin-top: -16px;
+    padding: 10px;
 }
