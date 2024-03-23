@@ -16,7 +16,7 @@ p {
 }
 /* Put a border around your image */
 img {
-    border: 10px solid;
+    border: 10px solid lightsalmon;
     height: auto;
     width: 200px;
 }
@@ -28,4 +28,5 @@ li {
 /* Add a background color to the footer element */
 footer {
     background-color: seagreen;
+    font-style: italic;
 }
