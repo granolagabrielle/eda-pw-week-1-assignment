@@ -1,38 +1,38 @@
 /* Add a background color to the header element */
 header {
-    background-color: seagreen;
-    margin-top: -21.44px;
-    margin-bottom: -21.44px;
-    padding: 10px;
+  background-color: seagreen;
+  margin-top: -21.44px;
+  margin-bottom: -21.44px;
+  padding: 10px;
 }
 /* Add a fun background color to the main element */
 main {
-    background-color: white;
-    padding: 20px;
+  background-color: white;
+  padding: 20px;
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
-    align-content: center;
+  align-content: center;
 }
 /* Make your p tag a different color and italic */
 p {
-    color: white;
+  color: white;
 }
 /* Put a border around your image */
 img {
-    border: 10px solid lightsalmon;
-    height: auto;
-    width: 200px;
+  border: 10px solid lightsalmon;
+  height: auto;
+  width: 200px;
 }
 /* Change the font-family of your list */
-li {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: black;
+ul {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
 }
 /* Add a background color to the footer element */
 footer {
-    background-color: seagreen;
-    font-style: italic;
-    margin-top: -16px;
-    padding: 10px;
+  background-color: seagreen;
+  font-style: italic;
+  margin-top: -16px;
+  padding: 10px;
 }
